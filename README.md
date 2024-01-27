@@ -7,6 +7,9 @@ In this project, I have developed the **Jobby App**, an application that offers 
 
 ### Link: https://cherrysjobbyapp.ccbp.tech
 
+name="rahul"
+password="rahul@2021"
+
 The key components and functionalities of this project include:
 
 - **User Interface**: I created distinct pages for Login, Home, Jobs, and Job Item Details using React components. These components leverage React's capabilities for handling props, state management, event handling, and form inputs.
